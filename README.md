@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there. Backend web developer here
 
 <!--
 **Blink17072002/Blink17072002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
